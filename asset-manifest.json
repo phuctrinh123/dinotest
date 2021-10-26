@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "./static/css/main.5a715ba8.chunk.css",
+    "main.js": "./static/js/main.23cbe1a0.chunk.js",
+    "main.js.map": "./static/js/main.23cbe1a0.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.e9f4aa58.js",
+    "runtime-main.js.map": "./static/js/runtime-main.e9f4aa58.js.map",
+    "static/js/2.f0778c94.chunk.js": "./static/js/2.f0778c94.chunk.js",
+    "static/js/2.f0778c94.chunk.js.map": "./static/js/2.f0778c94.chunk.js.map",
+    "static/js/3.5741d72e.chunk.js": "./static/js/3.5741d72e.chunk.js",
+    "static/js/3.5741d72e.chunk.js.map": "./static/js/3.5741d72e.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.5a715ba8.chunk.css.map": "./static/css/main.5a715ba8.chunk.css.map",
+    "static/js/2.f0778c94.chunk.js.LICENSE.txt": "./static/js/2.f0778c94.chunk.js.LICENSE.txt",
+    "static/media/photocopy-request-block.css": "./static/media/AlumniSans-Bold.9d429a7a.ttf",
+    "static/media/order-list.css": "./static/media/Questrial-Regular.96dd668f.ttf",
+    "static/media/product-list.css": "./static/media/AlumniSans-SemiBold.991d712d.ttf",
+    "static/media/add-to-cart.c42eafd3.svg": "./static/media/add-to-cart.c42eafd3.svg",
+    "static/media/arrown-down.0df939cc.svg": "./static/media/arrown-down.0df939cc.svg",
+    "static/media/cart.b2b4d489.svg": "./static/media/cart.b2b4d489.svg",
+    "static/media/plus.e05e64ae.svg": "./static/media/plus.e05e64ae.svg",
+    "static/media/remove-all.18454acd.svg": "./static/media/remove-all.18454acd.svg",
+    "static/media/remove-unactive.c173a4ce.svg": "./static/media/remove-unactive.c173a4ce.svg",
+    "static/media/remove.40e5d940.svg": "./static/media/remove.40e5d940.svg",
+    "static/media/tick.646d0789.svg": "./static/media/tick.646d0789.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9f4aa58.js",
+    "static/js/2.f0778c94.chunk.js",
+    "static/css/main.5a715ba8.chunk.css",
+    "static/js/main.23cbe1a0.chunk.js"
+  ]
+}
